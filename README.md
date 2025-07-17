@@ -55,6 +55,7 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Libraries and tools used
 
+
 - get - State management
   https://pub.dev/packages/get
 - connectivity_plus - For status of network connectivity
